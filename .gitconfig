@@ -1,0 +1,7 @@
+[user]
+	name = Kachi Lee
+	email = onyedikachi817@gmail.com
+[http]
+	postBuffer = 524288000
+[init]
+	defaultBranch = main
